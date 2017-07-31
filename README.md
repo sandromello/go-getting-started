@@ -8,8 +8,8 @@ A barebones Go app, which can easily be deployed to Koli.
 Make sure you have [Go](http://golang.org/doc/install).
 
 ```sh
-$ go get -u github.com/kolihub/go-getting-started
-$ cd $GOPATH/src/github.com/kolihub/go-getting-started
+$ go get -u github.com/koli/go-getting-started
+$ cd $GOPATH/src/github.com/koli/go-getting-started
 $ go build
 $ ./go-getting-started
 ```
