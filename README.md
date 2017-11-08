@@ -1,7 +1,7 @@
 
 # go-getting-started
 
-A barebones Go app, which can easily be deployed to Koli.
+A barebones Go app, which can easily be deployed to Koli!.
 
 ## Running Locally
 
